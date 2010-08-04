@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="BerkeleyDB">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/BerkeleyDB-je-4.0.103.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

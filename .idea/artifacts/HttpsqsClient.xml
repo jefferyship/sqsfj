@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="HttpsqsClient">
+    <output-path>$PROJECT_DIR$/HttpsqsClient/artifacts</output-path>
+    <root id="archive" name="HttpsqsClient.jar">
+      <element id="module-output" name="HttpsqsClient" />
+    </root>
+  </artifact>
+</component>
