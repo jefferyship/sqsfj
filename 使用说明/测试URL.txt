@@ -1,0 +1,11 @@
+http://10.128.3.104:1218/?name=test_queue&opt=status
+
+http://10.128.3.104:1218/?name=test_queue&opt=status_json
+
+http://10.128.3.104:1218/?name=test_queue&opt=put&charset=GBK&data=test%28%B2%E2%CA%D4%29%20SQs4J
+
+http://10.128.3.104:1218/?name=test_queue&opt=view&pos=333162
+
+http://10.128.3.104:1218/?name=test_queue&opt=get
+
+http://10.128.3.104:1218/?name=test_queue&opt=maxqueue&num=1000000
